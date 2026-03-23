@@ -1,5 +1,4 @@
 - 👋 I am Moh
-- 👀 I mainly develop QQ robot
 - 🌱 I hope to learn more in my spare time
 - 📫 Contact my email 1917703871@qq.com
 
